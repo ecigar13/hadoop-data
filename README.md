@@ -1,9 +1,7 @@
 
 # Usage
 
-- This is just a convenient storage of source files.
-- Learned  [Hortonworks Ambari](https://docs.cloudera.com/HDPDocuments/Ambari/Ambari-2.7.4.0/index.html) because it's too much mundane work to set up. Username/Password: admin/admin
-- Using [Cloudera/Hortonworks HDP](https://www.cloudera.com/tutorials/sandbox-deployment-and-install-guide/3.html)
+- This is just a convenient storage of source files and basic hadoop config files. 
 - To use: copy hadoop distribution directly into the repo folder
 - Set up Hadoop environment and work from there. (only works on Linux)
 
